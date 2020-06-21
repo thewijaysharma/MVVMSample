@@ -1,4 +1,4 @@
-package com.learnandroid
+package com.learnandroid.util
 
 import android.content.Context
 import android.content.SharedPreferences
